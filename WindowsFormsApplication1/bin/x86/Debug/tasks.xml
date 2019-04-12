@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<table name ="task" >
+  <task>
+    <name>task1</name>
+    <dep>sales</dep>
+    <deadline>5</deadline>
+  </task>
+ <task>
+    <name>task2</name>
+<dep>sales</dep>
+ <deadline>4</deadline>
+  </task>
+   <task>
+    <name>task3</name>
+      <dep>sales</dep>
+   <deadline>6</deadline>
+  </task>
+ <task>
+    <name>task1</name>
+    <dep>hr</dep>
+    <deadline>5</deadline>
+  </task>
+   <task>
+    <name>task2</name>
+<dep>hr</dep>
+   <deadline>4</deadline>
+  </task>
+ <task>
+    <name>task3</name>
+    <dep>hr</dep>
+    <deadline>3</deadline>
+  </task>
+ <task>
+    <name>task1</name>
+    <dep>marketing</dep>
+    <deadline>4</deadline>
+  </task>
+ <task>
+    <name>task2</name>
+    <dep>marketing</dep>
+    <deadline>5</deadline>
+  </task>
+ <task>
+    <name>task1</name>
+    <dep>it</dep>
+    <deadline>7</deadline>
+  </task>
+ <task>
+    <name>task2</name>
+    <dep>it</dep>
+    <deadline>4</deadline>
+  </task>
+</table>

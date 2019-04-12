@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<table name ="employees">
+  <employees>
+<employee >    
+    <id>1</id>
+    <name>mohamed</name>
+    <salary>2500</salary>
+    <department>hr</department>
+    <workhour>7</workhour>
+ 
+</employee>
+  
+<employee >
+    <id>2</id>
+    <name>nirmeen </name>
+    <salary>2000</salary>
+    <department>sales</department>
+    <workhour>8</workhour>
+  
+
+</employee>
+  <employee >
+    <id>3</id>
+  <name>mayada</name>
+    <salary>3000</salary>
+    <department>marketing</department>
+    <workhour>8</workhour>
+    
+  </employee>
+  <employee >
+    <id>4</id>
+  <name>noha</name>
+    <salary>2000</salary>
+    <department>it</department>
+    <workhour>9</workhour>
+   
+  </employee>
+<employee >
+    <id>5</id>
+  <name>warda</name>
+    <salary>1500</salary>
+    <department>hr</department>
+    <workhour>9</workhour>
+  
+  </employee>
+  <employee >
+    <id>6</id>
+    <name>momen</name>
+    <salary>2500</salary>
+    <department>it</department>
+    <workhour>10</workhour>
+   
+  </employee>
+  <employee >
+    <id>7</id>
+    <name>nehal</name>
+    <salary>2000</salary>
+    <department>sales</department>
+    <workhour>7</workhour>
+    
+  </employee>
+  <employee >
+    <id>8</id>
+    <name>ahmed</name>
+    <salary>2000</salary>
+    <department>marketing</department>
+    <workhour>7</workhour>
+    
+  </employee>
+  <employee >
+    <id>9</id>
+    <name>samir</name>
+    <salary>3000</salary>
+    <department>sales</department>
+    <workhour>10</workhour>
+   
+  </employee>
+  <employee >
+    <id>10</id>
+    <name>yara</name>
+    <salary>2050</salary>
+    <department>marketing</department>
+    <workhour>6</workhour>
+  
+  </employee>
+  </employees>
+</table>
